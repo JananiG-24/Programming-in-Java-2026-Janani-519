@@ -1,0 +1,57 @@
+-----TestCase 1-----
+Smart Fan is ON
+
+-----TestCase 2-----
+Smart Fan is OFF
+
+-----TestCase 3-----
+Smart Light is ON
+
+-----TestCase 4-----
+Smart Light is OFF
+
+-----TestCase 5-----
+Smart AC is ON
+
+-----TestCase 6-----
+Smart AC is OFF
+
+-----TestCase 7-----
+Smart Fan is ON
+Smart Fan is OFF
+
+-----TestCase 8-----
+Smart Light is ON
+Smart Light is OFF
+
+-----TestCase 9-----
+Smart AC is ON
+Smart AC is OFF
+
+-----TestCase 10-----
+Smart Fan is ON
+Smart Light is ON
+Smart AC is ON
+
+-----TestCase 11-----
+Error: Class must implement all interface methods.
+
+-----TestCase 12-----
+Error: Interface cannot be instantiated.
+
+-----TestCase 13-----
+Error: NullPointerException occurred.
+
+-----TestCase 14-----
+Error: turnON() is incorrect.
+Correct method is turnOn().
+
+-----TestCase 15-----
+Error: turnOn(String mode) is incorrect.
+Correct method is turnOn().
+
+-----TestCase 16-----
+Error: 'implements' keyword is required.
+
+-----TestCase 17-----
+Error: Interface methods must be implemented as public.
