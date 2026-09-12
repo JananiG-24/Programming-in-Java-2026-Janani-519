@@ -1,0 +1,51 @@
+TEST CASE 1
+Create a customer and display customer details
+Customer ID: C101
+Customer Name: Rahul
+Phone Number: 9876543210
+
+TEST CASE 2
+Create a loan and display loan details
+Loan ID: L201
+Loan Type: Home Loan
+Loan Amount: 500000.0
+
+TEST CASE 3
+Create a bank account and deposit money
+Amount deposited: 10000.0
+Current Balance: 10000.0
+
+TEST CASE 4
+Withdraw money within available balance
+Amount withdrawn: 5000.0
+Current Balance: 15000.0
+
+TEST CASE 5
+Access classes from different packages using import statements
+Customer ID: C102
+Customer Name: Priya
+Phone Number: 9123456780
+Loan ID: L202
+Loan Type: Education Loan
+Loan Amount: 300000.0
+Current Balance: 15000.0
+
+TEST CASE 6
+Withdraw amount greater than available balance
+Error: Insufficient balance.
+
+TEST CASE 7
+Deposit a negative amount
+Error: Deposit amount must be positive.
+
+TEST CASE 8
+Incorrect package name
+Error: bank.account package does not exist.
+
+TEST CASE 9
+Create object without importing package
+Error: Customer cannot be resolved because its package is not imported.
+
+TEST CASE 10
+Access package-private class/member from another package
+Error: Package-private class/member cannot be accessed from another package.
